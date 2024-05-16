@@ -1,0 +1,5 @@
+{
+    "symbols": ["BTCUSDT", "ETHUSDT"],
+    "start_date": "01/01/22",
+    "end_date": "31/12/22"
+}
