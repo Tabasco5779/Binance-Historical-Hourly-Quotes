@@ -7,7 +7,7 @@
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Tabasco5779/Binance-Historical-Hourly-Quotes.git
+    git clone https://github.com/valentin-gh/Binance-Historical-Hourly-Quotes.git
     cd binance-historical-hourly-quotes
     ```
 
